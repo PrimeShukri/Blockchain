@@ -20,7 +20,7 @@ I'm confident that I can build a blockchain-based ledger system that meets the n
 ---
 ## Files
 
-Download the following files to help you get started:
+Downloading the following files to get started:
 
 [Module 18 Homework files](Starter_Code/pychain.py)
 
@@ -28,7 +28,7 @@ Download the following files to help you get started:
 
 ## Instructions
 
-Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. You’ll use this file to complete the steps for this assignment. Notice that the `PyChain` ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
+Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. Use this file to complete the steps for this assignment. Notice that the `PyChain` ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
 
 The steps for this assignment are divided into the following sections:
 
@@ -92,15 +92,3 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
----
-## Submission
-
-You’ll upload the Python file for this assignment to your GitHub repository.
-
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
