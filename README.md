@@ -2,15 +2,20 @@
 
 ![alt=""](Images/application-image.png)
 
-My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+I'm a fintech engineer who works at one of the five largest banks in the world. I was recently promoted to lead developer on our decentralized finance team. My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
-I'm excited about this project because it's a great opportunity to use my skills to make a real impact on the financial industry. I'm also looking forward to learning more about blockchain technology and how it can be used to improve the efficiency and security of financial transactions.
+I'm excited about this project because it's a chance to use my skills to make a real impact on the financial industry. I know that blockchain technology has the potential to revolutionize the way we think about money, and I'm eager to be a part of that.
 
-I've started by creating a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store. I've also modified the existing Block data class to store Record data.
+The first step is to create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store. The Record class will have three attributes: sender, receiver, and amount.
 
-Next, I'm going to add relevant user inputs to the Streamlit interface. These input areas will capture the sender, receiver, and amount for each transaction that I'll store in the Block record.
+Next, I need to modify the existing Block data class to store Record data. The Block class already has a data attribute, but I'm going to rename it to record and set it to use an instance of the Record class.
 
-Once I've finished coding the user interface, I'll test the PyChain Ledger by storing some mined blocks in my PyChain ledger. Then I'll test the blockchain validation process by using my PyChain ledger.
+Once I've made those changes, I need to add relevant user inputs to the Streamlit interface. I'll need to add input areas for the sender, receiver, and amount for each transaction that I'll store in the Block record.
+
+Finally, I need to test the PyChain ledger by storing some mined blocks in my ledger. I'll do this by running my Streamlit application and entering values for the sender, receiver, and amount. I'll then click the Add Block button to store the block in the ledger. I'll repeat this process several times to store several blocks in the ledger.
+
+I'm confident that I can build a blockchain-based ledger system that meets the needs of my team. I'm excited to get started and to see how this technology can be used to improve the financial industry.
+
 
 ---
 ## Files
