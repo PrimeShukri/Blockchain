@@ -2,7 +2,7 @@
 
 ![alt=""](Images/application-image.png)
 
-I'm a fintech engineer who works at one of the five largest banks in the world. I was recently promoted to lead developer on our decentralized finance team. My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 I'm excited about this project because it's a chance to use my skills to make a real impact on the financial industry. I know that blockchain technology has the potential to revolutionize the way we think about money, and I'm eager to be a part of that.
 
